@@ -9,7 +9,7 @@ We aim to produce an accessible and clean energy source by converting the waste 
 
 We want to contribute to the goals we set to achieve with the machine system we have developed until 2030.
 
-### Images of the product
+### Images of the Product:
 
 <img src="https://github.com/cyberxtw/Akhidra/blob/main/1.jpg" width="793">
 

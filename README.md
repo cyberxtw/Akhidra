@@ -10,4 +10,4 @@ We aim to produce an accessible and clean energy source by converting the waste 
 We want to contribute to the goals we set to achieve with the machine system we have developed until 2030.
 
 ### Images of the product
-<img src="https://www.hizliresim.com/sk6l4ri" width="auto">
+

@@ -11,3 +11,4 @@ We want to contribute to the goals we set to achieve with the machine system we 
 
 ### Images of the product
 
+<img src="https://github.com/cyberxtw/Akhidra/blob/main/1.jpg" width="auto">

@@ -1,4 +1,4 @@
-# Akhidra
+# Akhidra 🌊 
 2022 Google Solution Challenge
 
 ### Purpose of our Akhira project:

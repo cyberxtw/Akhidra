@@ -17,4 +17,4 @@ We want to contribute to the goals we set to achieve with the machine system we 
 
 <img src="https://github.com/cyberxtw/Akhidra/blob/main/3-2.gif" width="793">
 
-<img src="https://github.com/cyberxtw/Akhidra/blob/main/3-2.gif" width="793">
+<img src="https://github.com/cyberxtw/Akhidra/blob/main/4%20(2).gif" width="793">
